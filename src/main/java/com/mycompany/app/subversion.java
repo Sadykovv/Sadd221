@@ -105,8 +105,7 @@ public class subversion {
                    {
                        JOptionPane.showMessageDialog(main_panel, "Алишер Абдувалиевич - 19150093 " +
                                "\nДиана Артемовна - 191500089 " +
-                               "\nИлья Дмитриевич - 19130621 " +
-                               "\nКристина Ринатовна - 19130012", "Информация", JOptionPane.PLAIN_MESSAGE);
+                               "\nИлья Дмитриевич - 19130621 - 30.03.2021", "Информация", JOptionPane.PLAIN_MESSAGE);
                    }
                    else{
                        JOptionPane.showMessageDialog(main_panel, "Алишер Абдувалиевич - 19150093 " +

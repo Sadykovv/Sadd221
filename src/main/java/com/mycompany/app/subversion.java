@@ -236,8 +236,8 @@ public class subversion {
                     a = Integer.parseInt(input1.getText());
                     b = Integer.parseInt(input2.getText());
 
-                    res = a+b*2;
-                    JOptionPane.showMessageDialog(null, "Периметр треугольника равен "+res, "Периметр: ", JOptionPane.INFORMATION_MESSAGE);
+                    res = (a+b*2)*10;
+                    JOptionPane.showMessageDialog(null, "Периметр треугольника равен "+res+"мм", "Периметр: ", JOptionPane.INFORMATION_MESSAGE);
                 }
                 catch (NumberFormatException e){
                     JOptionPane.showMessageDialog(null, "Ввод должен состоять из чисел", "Ошибка", JOptionPane.ERROR_MESSAGE);
